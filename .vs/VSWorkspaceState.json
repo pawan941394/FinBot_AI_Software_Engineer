@@ -1,0 +1,16 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\app",
+    "\\app\\components",
+    "\\app\\components\\chat",
+    "\\app\\components\\header",
+    "\\node_modules",
+    "\\node_modules\\.pnpm",
+    "\\node_modules\\.pnpm\\wrangler@3.63.2_@cloudflare+workers-types@4.20240620.0",
+    "\\node_modules\\.pnpm\\wrangler@3.63.2_@cloudflare+workers-types@4.20240620.0\\node_modules",
+    "\\node_modules\\.pnpm\\wrangler@3.63.2_@cloudflare+workers-types@4.20240620.0\\node_modules\\wrangler",
+    "\\node_modules\\.pnpm\\wrangler@3.63.2_@cloudflare+workers-types@4.20240620.0\\node_modules\\wrangler\\wrangler-dist"
+  ],
+  "PreviewInSolutionExplorer": false
+}
